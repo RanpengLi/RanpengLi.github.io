@@ -18,17 +18,23 @@ redirect_from:
 <br>
 <embed src="../files/2024-03-CV.pdf">
 
+
+
 Education
 ======
-* M.Sc. in Geology, University of Florida, 2024
-* B.Sc. in Earth Science, University of California at Santa Barbara, 2020
+* M.Sc. in Geology, University of Florida, May 2024
+* B.Sc. in Earth Science, University of California at Santa Barbara, Dec 2020
 
 
 Publications
 ======
+
+<!---
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+  -->
   
 
 
