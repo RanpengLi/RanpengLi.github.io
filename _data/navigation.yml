@@ -4,14 +4,14 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
 
-  - title: "Presentations"
-    url: /presentations/    
+#  - title: "Presentations"
+#    url: /presentations/    
 
-  - title: "Teaching"
-    url: /teaching/   
+#  - title: "Teaching"
+#    url: /teaching/   
 
   - title: "Field Work"
     url: /field-work/
