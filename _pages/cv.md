@@ -8,8 +8,15 @@ redirect_from:
 ---
 
 {% include base_path %}
+<!---
+{Download the full CV here (https://RanpengLi.github.io/blob/master/files/2024-03-CV.pdf)} 
+-->
 
-Download the full CV here (link) 
+
+<h3> <a href="../files/2024-03-CV.pdf" download>Download CV</a> </h3>
+<br>
+<br>
+<embed src="../files/2024-03-CV.pdf">
 
 Education
 ======
