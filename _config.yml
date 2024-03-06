@@ -7,7 +7,6 @@
 # server process.
 
 # Basic Site Settings
-
 locale                   : "en-US"
 title                    : "Ranpeng Li"
 title_separator          : "-"
