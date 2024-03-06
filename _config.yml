@@ -8,9 +8,6 @@
 
 # Basic Site Settings
 
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "contrast"
-
 locale                   : "en-US"
 title                    : "Ranpeng Li"
 title_separator          : "-"
@@ -29,7 +26,7 @@ author:
   name             : "Ranpeng Li"
   pronouns         : # example: "she/her"  
   bio              : "Graduate Assistant at Univ. of Florida"
-  location         : "Gainesville, Florida, USA, Earth"
+  location         : "Gainesville, Florida, USA"
   employer         : "University of Florida"
   uri              : # URL
   email            : "ranpeng.li@ufl.edu" 
