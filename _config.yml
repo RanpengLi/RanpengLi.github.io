@@ -21,7 +21,7 @@ repository               : "RanpengLi/RanpengLi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "RL_profile.jpg"
+  avatar           : "professional_profile.jpg"
   name             : "Ranpeng Li"
   pronouns         : # example: "she/her"  
   bio              : "Graduate Assistant at Univ. of Florida"
