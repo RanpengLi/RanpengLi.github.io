@@ -7,6 +7,10 @@
 # server process.
 
 # Basic Site Settings
+
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "contrast"
+
 locale                   : "en-US"
 title                    : "Ranpeng Li"
 title_separator          : "-"
