@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# <meta name="google-site-verification" content="lke2zjg0GvbpW1mVJVM39QNRLyNd0DpFostPZN0Me_M" />
+<h1><meta name="google-site-verification" content="lke2zjg0GvbpW1mVJVM39QNRLyNd0DpFostPZN0Me_M" /></h1> 
 
 
 About me
