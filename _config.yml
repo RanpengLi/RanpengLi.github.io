@@ -24,11 +24,11 @@ author:
   avatar           : "professional_profile.jpg"
   name             : "Ranpeng Li"
   pronouns         : # example: "she/her"  
-  bio              : "Graduate Assistant at Univ. of Florida"
-  location         : "Gainesville, Florida, USA"
-  employer         : "University of Florida"
+  bio              : "Ph.D. Candidate at GEOMAR"
+  location         : "Kiel, Germany"
+  employer         : "GEOMAR Helmholtz Centre for Ocean Research Kiel"
   uri              : # URL
-  email            : "ranpeng.li@ufl.edu" 
+  email            : "rli@geomar.de" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
