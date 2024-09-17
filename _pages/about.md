@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 ======
-I am a graduate research assistant in the Department of Geological Sciences at the University of Florida. I run geodynamics model to understand Earth's mantle evolution and convection regimes. 
+I am a PhD candidate at GEOMAR Helmholtz Centre for Ocean Research Kiel, Germany. I run geodynamics model to understand Earth's mantle evolution and convection regimes. 
 
 My Thesis / Current Project
 ------
