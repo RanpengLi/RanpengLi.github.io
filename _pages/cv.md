@@ -15,6 +15,7 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Geophysics, GEOMAR Helmholtz Centre for Ocean Research Kiel, May 2024 - present
 * M.Sc. in Geology, University of Florida, May 2024
 * B.Sc. in Earth Science, University of California at Santa Barbara, Dec 2020
 
