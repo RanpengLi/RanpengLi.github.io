@@ -31,10 +31,10 @@ Publications
 
   -->
 
-<h3> <a href="../files/Ranpeng_Li_CV_online.pdf" download>Download CV</a> </h3>
+<h3> <a href="../files/CV_Ranpeng_Li_2025_02.pdf" download>Download CV</a> </h3>
 <br>
 <br>
-<embed src="../files/Ranpeng_Li_CV_online.pdf">
+<embed src="../files/CV_Ranpeng_Li_2025_02.pdf">
   
 
 
